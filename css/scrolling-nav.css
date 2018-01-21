@@ -9,7 +9,7 @@
  }
 
 .bg-dark {
-  background-color: rgba(100, 100, 100, 0.0) !important;
+  background-color: #005DB1 !important;
 }
 
 .bg-dark-bottom {
@@ -22,7 +22,7 @@
 
 .parallax {
    /* The image used */
-   background-image: url('DSC01271_edit.jpg');
+   background-image: url('DSC00712_final_md2.jpg');
 
    /* Full height */
    height: 100%;
@@ -96,7 +96,7 @@ header {
 .navbar-brand{
   font-size: 1.50rem;
   font-style: normal;
-  font-family: 'Paytone One', sans-serif;
+  font-family: 'Josefin Sans', sans-serif;
   color: #f8f9fa;
 }
 
@@ -104,18 +104,28 @@ header {
   background-color: black;
 }
 
-h1{
-  font-size: 52pt;
-  font-style: normal;
-  font-family: 'Paytone One', sans-serif;
-  left: 0;
-  line-height: 200px;
+.iconheader img {
+  float: center;
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  top: 100px;
   margin: auto;
-  margin-top: -100px;
+}
+
+
+.iconheader h1{
+  font-size: 100pt;
+  font-style: normal;
+  font-family: 'Josefin Sans', sans-serif;
+  left: 0;
+  line-height: 00px;
+  margin: auto;
+  margin-top: -75px;
   position: absolute;
   top: 50%;
   width: 100%;
-  color: #076292;
+  color: white;
   letter-spacing: 8px;
 }
 
@@ -139,6 +149,13 @@ h4{
   font-family: 'Raleway', sans-serif;
 }
 
+h5 {
+  font-size: 16pt;
+  font-style: normal;
+  font-family: 'Paytone One', sans-serif;
+  color: #f8f9fa;
+}
+
 p {
   color: white;
   font-size: 16pt;
@@ -154,7 +171,7 @@ p {
   font-family: 'Paytone One', sans-serif;
   font-size: 24px;
   left: 0;
-  line-height: 350px;
+  line-height: 300px;
   margin: auto;
   margin-top: -100px;
   position: absolute;
@@ -182,7 +199,7 @@ p {
 
 #maps {
   padding: 100px 0;
-  background-color: #C06446;
+  background-color: #42A377;
 }
 
 #photos {
@@ -192,7 +209,7 @@ p {
 
 #aboutme {
   padding: 100px 0;
-  background-color: #3F4727;
+  background-color: #C06446;
 }
 
 #resume {

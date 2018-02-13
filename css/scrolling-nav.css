@@ -482,22 +482,24 @@ a:link {
     color: #f8f9fa;
     background-color: transparent;
     text-decoration: none;
+
 }
 
 a:visited {
     color: #f8f9fa;
     background-color: transparent;
     text-decoration: none;
+
 }
 
 a:hover {
-    color: #277A2B;
+    color: blue;
     background-color: transparent;
     text-decoration: underline;
 }
 
 a:active {
-    color: yellow;
+    color: blue;
     background-color: transparent;
     text-decoration: underline;
 }

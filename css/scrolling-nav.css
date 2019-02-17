@@ -13,7 +13,7 @@
 }
 
 .bg-dark-bottom {
-  background-color: rgba(100, 100, 100, 0.5) !important;
+  background-color: #005DB1 !important;
 }
 
 .navbar-dark .navbar-nav .nav-link {
@@ -22,7 +22,7 @@
 
 .parallax {
    /* The image used */
-   background-image: url('DSC00712_final_md2.jpg');
+   background-image: url('DSC00831_final_md.jpg');
 
    /* Full height */
    height: 100%;
@@ -170,14 +170,21 @@ header {
 h2{
   font-size: 24pt;
   font-style: normal;
-  font-family: 'Paytone One', sans-serif;
-  color: #f8f9fa;
+  font-family: 'M PLUS Rounded 1c', sans-serif;
+  color: #000000;
+}
+
+h6{
+  font-size: 24pt;
+  font-style: normal;
+  font-family: 'M PLUS Rounded 1c', sans-serif;
+  color: #FFF;
 }
 
 h3{
   font-size: 16pt;
   font-style: normal;
-  font-family: 'Paytone One', sans-serif;
+  font-family: 'Yantramanav', sans-serif;
   color: #f8f9fa;
 }
 
@@ -195,13 +202,19 @@ h5 {
 }
 
 p {
-  color: white;
+  color: #000000;
+  font-size: 16pt;
+  font-family: 'Raleway', sans-serif;
+}
+
+p2 {
+  color: #FFF;
   font-size: 16pt;
   font-family: 'Raleway', sans-serif;
 }
 
 .lead{
-  color: white;
+  color: black;
 }
 
 @media handheld, only screen and (min-width: 1295px) {
@@ -287,28 +300,28 @@ p {
 
 #maps {
   padding: 100px 0;
-  background-color: #42A377;
+  background-color: #FFF;
 }
 
 #photos {
   padding: 100px 0;
-  background-color: #A6A3A5;
+  background-color: #000000;
 }
 
 #aboutme {
   padding: 100px 0;
-  background-color: #C06446;
+  background-color: #FFF;
 }
 
 #resume {
   padding: 100px 0;
-  background-color: #54AAFE;
+  background-color: #338BD4;
 }
 
 #contactme {
   padding-top: 100px 0;
   padding-bottom: 250px;
-  background-color: #4B444C;
+  background-color: #000000;
 }
 
 section {
